@@ -28,7 +28,7 @@ function setup() {
 	bin3 = new dustbin(760,540,20,100);
 
 	Engine.run(engine);
-	console.log(ball);
+	//console.log(ball);
 }
 
 
